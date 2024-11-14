@@ -1,0 +1,4 @@
+ficheiro_1.fastq.gz
+ficheiro_1.fastq.gz
+ficheiro_11.fastq.gz
+ficheiro_21.fastq.gz

@@ -1,0 +1,1 @@
+amostra_3.fastq.gz
