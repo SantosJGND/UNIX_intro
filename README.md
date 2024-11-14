@@ -7,4 +7,5 @@ Website material : [link](https://pumped-calliandra-c14.notion.site/UNIX-and-Lin
 
 
 Linguagem - Portugês
+
 Requerimentos - GNU/Linux OS | WSL
